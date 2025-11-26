@@ -1,0 +1,31 @@
+.form-control {
+    padding-left: 3rem;
+}
+.input-icon {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6c757d;
+    z-index: 5;
+}
+.btn-login {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+.login-links {
+    text-align: center;
+    margin-top: 1rem;
+}
+.login-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+.login-links a:hover {
+    text-decoration: underline;
+}
